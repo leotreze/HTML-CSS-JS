@@ -1,0 +1,24 @@
+::root {
+  --corgeral: #bebebe;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0px;
+  padding: opx;
+}
+
+#body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background: aquamarine;
+  margin: auto;
+}
